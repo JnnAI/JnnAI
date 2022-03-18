@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JnnAI
+- 👀 I’m interested in Data Science & IA Development
+- 🌱 I’m currently learning through the School of Artificial Intelligence: TheEgg
+- 💞️ I’m looking to collaborate on some projects about Python programming
+- 📫 How to reach me: jonan.iturrioz@gmail.com
